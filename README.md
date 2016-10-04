@@ -5,7 +5,8 @@ the ability to filter posts by category, so you only see posts of the chosen cat
 the ability to delete specific posts
 
 /flaskr
-		/satic
-			-style.css
-			-flaskr.py
+	/satic
+		-style.css
+		-flaskr.py
   	/templates
+		-html
